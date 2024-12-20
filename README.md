@@ -1,7 +1,7 @@
 # ChatGPT 中文版镜像网站推荐：支持 GPT-4 和 GPT-o1，国内免费体验指南【12月持续更新】
 
 > 想要快速使用 **ChatGPT 中文版**？无需翻墙，即可轻松访问 GPT-4、GPT-o1 模型和更多高级功能！本指南为您整理了 **最新的 ChatGPT 中文版镜像网站**，并提供详细的使用教程，助您在学习、工作、创作中最大化利用 ChatGPT 的潜力。  
-> **更新时间：2024年12月18日**
+> **更新时间：2024年12月20日**
 
 ---
 
@@ -24,7 +24,7 @@
 |----------------------|-------------------|--------------|---------------------------|---------------------|
 | [snakegpt.work](https://snakegpt.work)    | GPT-4    | 5 次      | 支持 AI 绘图和 MidJourney   | ⭐⭐⭐⭐⭐              |
 | [gptcat.net](https://gptcat.net)         | GPT-4、GPT-o1、Claude3     | 10 次     | 支持GPT-o1-pro,实时语音对话      | ⭐⭐⭐⭐⭐              |
-| [ai-panda.xyz](https://ai-panda.xyz)     | GPT-4、GPT-o1     | 10 次       | 提供 API 接口支持，适合开发者 | ⭐⭐⭐⭐⭐              |
+| [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)     | GPT-4、GPT-o1     | 10 次       | 提供 API 接口支持，适合开发者 | ⭐⭐⭐⭐⭐              |
 | [gptdog.online](https://gptdog.online)   | GPT-4            | 不免费       | 界面友好，新手快速上手       | ⭐⭐⭐⭐               |
 
 ### **推荐站点说明**
